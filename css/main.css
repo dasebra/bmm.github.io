@@ -487,3 +487,17 @@ border: solid 2px #3aaa35;
   text-decoration: none;
 }
 
+@media (min-width: 576px) { 
+.texto-contacto {
+font-size: 1.1rem!important;
+}
+
+ }
+
+@media (max-width: 575.98px) { 
+
+.texto-contacto {
+font-size: 0.8rem!important;
+}
+
+ }
